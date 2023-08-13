@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MoEzwawi
 - 👀 I’m interested in ... Web development
 - 🌱 I’m currently learning ... full-stack web development with Epicode!
-- 💞️ I’m looking to collaborate on ... lucrative projects
+- 💞️ I’m looking to collaborate on ... nice projects
 - 📫 How to reach me ... mezwawi96@gmail.com
 
 <!---
